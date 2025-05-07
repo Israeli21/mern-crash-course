@@ -9,3 +9,6 @@ export const connectDB = async () => {
         process.exit(1); // process 1 code means exit with failure, o means success
     }
 }
+
+// In terminal: npm run dev
+// 
